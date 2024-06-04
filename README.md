@@ -84,7 +84,7 @@ WCPS is a high-level query language enabling users to retrieve and process geosp
 ![alt text](images/class_diagram.png "Class Diagram")
 
 ## Classes in 'wdc'
-For detailed class documentation, see [here](/WCPS-Query/class_documentation.md)
+For detailed class documentation, see [here](/class_documentation.md)
 
 <br/> <br/> <br/>
 
